@@ -1,0 +1,9 @@
+# Ignorar configuraciones locales y credenciales secretas
+.env
+
+# Ignorar los reportes generados (opcional, para mantener limpio tu repo)
+reports/*.md
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
